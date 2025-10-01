@@ -1,0 +1,26 @@
+## Overview
+This PR adds a new documentation section for **ERIFY™ App Core** — the secure, scalable backbone of the ERIFY global ecosystem.  
+
+It provides:
+- Setup instructions for deploying ERIFY App Core with **Cloudflare Workers & Pages**.
+- Integration notes for **Node.js/Express APIs** and **Python/FastAPI AI services**.
+- CI/CD automation via **GitHub Actions**.
+- Security practices aligned with **ERIFY 4PW** (Prosperity & Wealth) principles.
+
+## Why
+ERIFY App Core powers applications, integrations, and AI systems across the ERIFY brand.  
+This guide ensures smooth onboarding for developers and contributors deploying within Cloudflare’s global edge network.
+
+## Location
+I propose placing this under:
+- `https://developers.cloudflare.com/pages/framework-guides/`
+or
+- creating a new sub-section in **Workers + Pages** integration guides.
+
+## Additional Information
+- Organization: ERIFY Studio ⚡💎  
+- Related repos: [erify-app-core](https://github.com/erifystudio/erify-app-core)  
+
+---
+
+✨ From the ashes to the stars — ERIFY™ to the world.
