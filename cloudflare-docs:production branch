@@ -1,0 +1,37 @@
+# 👑 Crown Pull Request
+
+## 📖 Summary
+Explain what this PR changes and why it matters.  
+Example: "[SSL] Update troubleshooting.mdx to clarify path parameter and fix missing line break."
+
+---
+
+## 🔑 Key Changes
+- [ ] Content updates (docs/tutorials)
+- [ ] Bug fix (typo, broken link, formatting)
+- [ ] Feature addition (new section, new guide)
+- [ ] Infrastructure (CI/CD, config)
+
+---
+
+## 💎 Screenshots / Evidence
+(Add screenshots or links if it improves clarity.)
+
+---
+
+## 🚀 Related Issue / Context
+Closes: #ISSUE_NUMBER (if applicable)  
+Related to release milestone: `vX.X.X`
+
+---
+
+## ✅ Checklist
+- [ ] I followed the project’s **Contributing Guidelines**  
+- [ ] I updated or added necessary **docs**  
+- [ ] I tested that my changes render correctly  
+- [ ] I added references / citations if required  
+- [ ] I included ERIFY Crown Seal (`No limits. Just legacy. ⚡🔥`)  
+
+---
+
+⚡ **DC ERIFY | GERIZON 🧃🐐**
