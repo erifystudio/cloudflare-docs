@@ -1,0 +1,11 @@
+Adds documentation updates for ERIFYBOT integration with Cloudflare Workers.
+
+- Defined key environment variables:
+  • BRAND_NAME → ERIFY™ Global
+  • TAGLINE → No Limits. Just Legacy. ⚡
+  • SYMBOLS → 💎🔥
+  • FOOTER_NOTE → © 2025 ERIFY Technologies U.S. LLC
+- Linked logo asset at https://erifyglobal.com/logo.png
+- Updated references for ERIFYBOT roadmap (/seal + /fire commands)
+
+This update ensures clarity for contributors setting up ERIFYBOT pipelines on Cloudflare Workers.
